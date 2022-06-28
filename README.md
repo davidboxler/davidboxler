@@ -1,6 +1,6 @@
 # console.log('Hola Mundo!! :wave:')
 
-<img src="" alt="banner-javascript-it-lover">
+<img width="100%" src="https://github.com/davidboxler/davidboxler/blob/main/banner2.jpg" alt="banner-javascript-it-lover">
 <p>Mi nombre es David, soy Técnico Superior en Programación :computer:. Actualmente estoy enfocado en el Desarrollo Front-End, porque me gusta lo versátil y dinámico de este campo, mi meta es llegar a ser Full-Stack-Developer por esta razón me encuentro realizando cursos y aprendiendo herramientas del área constantemente. Me apasiona la tecnología, busco oportunidades para aprender, apoyar, colaborar y seguir mejorando tanto a nivel profesional como personal.</p>
 
 <h3>Mi codigo favorito: :coffee:</h3>
