@@ -19,8 +19,8 @@ do{
 }
 ```
 
-<div display='flex'>
-<h3>Skills: </h3>
+<div display='flex' align='center'>
+<h3 >Skills: </h3>
 <img height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -34,7 +34,7 @@ do{
 <img height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
-<h2 align="left">Linkedin Profile:</h2>
+<h2 align='center'>Linkedin Profile:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/boxlerdavid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-boxler-david" height="30" width="40" /></a>
 </p>
