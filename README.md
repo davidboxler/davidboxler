@@ -35,7 +35,7 @@ do{
 <img height='50px' width="50px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /> &nbsp;
 <img height='50px' width="50px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" /> &nbsp;
 <img height='50px' width="50px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> &nbsp;
-<i height='50px' width="50px" style="margin: 10px" class="devicon-express-original"></i> &nbsp;
+<img height='50px' width="50px" style="margin: 10px"> <i class="devicon-express-original"></i></img> &nbsp;
 <img height='50px' width="50px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> &nbsp;
 <img height='50px' width="50px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> &nbsp;
 <img height='50px' width="50px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> &nbsp;
