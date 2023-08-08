@@ -25,7 +25,7 @@ do{
 
 <div display='flex'>
 <h3 >Skills: </h3>
-<img height='60px' width="60px" style="margin-left: 10px; margin-bottom: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> &nbsp;
+<img height='60px' width="60px" style="margin-left: 60px; margin-bottom: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> &nbsp;
 <img height='60px' width="60px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> &nbsp;
 <img height='60px' width="60px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> &nbsp;
 <img height='60px' width="60px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> &nbsp;
