@@ -1,4 +1,4 @@
-# console.log('Hello World!! :wave:') 
+# console.log('Hello World!! I'm David :wave:') 
 
 <img width="100%" src="https://github.com/davidboxler/davidboxler/blob/main/assets/banner-dev.jpg" alt="banner-dev">
 <p>My name is David, I am a Higher Technician in Programming :computer:. I'm currently studying a bachelor's degree in video game production and I'm working as a front-end developer in my current job. I am self-taught, reason why I am constantly learning to use new tools to progress in my IT skills. I love working with a team and looking for opportunities to learn, support, collaborate, and continue to grow professionally and personally.</p>
