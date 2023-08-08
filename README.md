@@ -25,18 +25,20 @@ do{
 
 <div display='flex'>
 <h3 >Skills: </h3>
-<img height='60' width="60px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> &nbsp;
-<img height='60' width="60px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> &nbsp;
-<img height='60' width="60px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp;
-<img height='60' width="60px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> &nbsp;
-<img height='60' width="60px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> &nbsp;
-<img height='60' width="60px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> &nbsp;
-<img height='60' width="60px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> &nbsp;
-<img height='60' width="60px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> &nbsp;
-<img height='60' width="60px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> &nbsp;
-<img height='60' width="60px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> &nbsp;
-<img height='60' width="60px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> &nbsp;
-<img height='60' width="60px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> &nbsp;
+<img height='50px' width="50px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> &nbsp;
+<img height='50px' width="50px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> &nbsp;
+<img height='50px' width="50px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> &nbsp;
+<img height='50px' width="50px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> &nbsp;
+<img height='50px' width="50px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp;
+<img height='50px' width="50px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />" /> &nbsp;
+<img height='50px' width="50px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> &nbsp;
+<img height='50px' width="50px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /> &nbsp;
+<img height='50px' width="50px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" /> &nbsp;
+<img height='50px' width="50px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> &nbsp;
+<img height='50px' width="50px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> &nbsp;
+<img height='50px' width="50px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> &nbsp;
+<img height='50px' width="50px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> &nbsp;
+<img height='50px' width="50px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> &nbsp;
 </div>
 
 --------
