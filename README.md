@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 # console.log('Hello World!! :wave:') 
 
 <img width="100%" src="https://github.com/davidboxler/davidboxler/blob/main/assets/banner-dev.jpg" alt="banner-dev">
@@ -34,9 +33,7 @@ do{
 <img height='50px' width="50px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> &nbsp;
 <img height='50px' width="50px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> &nbsp;
 <img height='50px' width="50px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /> &nbsp;
-<img height='50px' width="50px" style="margin: 10px"> <i class="devicon-nextjs-plain-wordmark"></i> </img> &nbsp;
 <img height='50px' width="50px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> &nbsp;
-<img height='50px' width="50px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> &nbsp;
 <img height='50px' width="50px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> &nbsp;
 <img height='50px' width="50px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> &nbsp;
 <img height='50px' width="50px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> &nbsp;
