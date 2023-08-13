@@ -1,6 +1,6 @@
 <h1 align="center">> console.log('Hello World!! I'm David') 👨‍💻 🚀</h1>
 
-<img width="100%" src="https://github.com/davidboxler/davidboxler/blob/main/assets/banner-estrellas.png" alt="banner-dev">
+<img width="80%" src="https://github.com/davidboxler/davidboxler/blob/main/assets/" alt="banner-dev">
 
 ## About Me :wave:
 <p>My name is David, I am a Higher Technician in Programming :computer:. I'm currently studying a bachelor's degree in video game production and I'm working as a front-end developer in my current job. I am self-taught, reason why I am constantly learning to use new tools to progress in my IT skills. I love working with a team and looking for opportunities to learn, support, collaborate, and continue to grow professionally and personally.</p>
