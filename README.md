@@ -5,7 +5,7 @@
 ## About Me :wave:
 <p>My name is David, I am a Higher Technician in Programming :computer:. I'm currently studying a bachelor's degree in video game production and I'm working as a front-end developer in my current job. I am self-taught, reason why I am constantly learning to use new tools to progress in my IT skills. I love working with a team and looking for opportunities to learn, support, collaborate, and continue to grow professionally and personally.</p>
 
-## My Favorite Code: :coffee:
+## My Favorite Function: :coffee:
 
 ```typescript
 function drinkCoffeeUntilFinished(): void {
@@ -46,6 +46,7 @@ function drinkCoffeeUntilFinished(): void {
 <tr><th scope='row' align="left">Backend</th><td>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-232F3E?style=for-the-badge&logo=expressjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 </td></tr>
 <tr><th scope='row' align="left">Databases</th><td>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
