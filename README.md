@@ -7,27 +7,17 @@
 
 ## My Favorite Code: :coffee:
 
-```react
-function Coffee() {
-  const [empty, setEmpty] = useState(true);
+```typescript
+function drinkCoffeeUntilFinished(): void {
+  const coffee = new Coffee();
 
-  const refill = () => {
-    console.log("Refilling coffee...");
-    setEmpty(false);
-  }
-
-  const drink = () => {
-    console.log("Drinking coffee...");
-    setEmpty(true);
-  }
-
-  return (
-    <div>
-      <button onClick={empty ? refill : drink}>
-        {empty ? "Refill Coffee" : "Drink Coffee"}
-      </button>
-    </div>
-  );
+  do {
+    if (coffee.isEmpty()) {
+      coffee.refill();
+    } else {
+      coffee.drink();
+    }
+  } while (!finishedCode);
 }
 ```
 
