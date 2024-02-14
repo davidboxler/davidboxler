@@ -46,7 +46,6 @@ do{
 <tr><th scope='row' align="left">Backend</th><td>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-232F3E?style=for-the-badge&logo=expressjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/C#-5C2D91?style=for-the-badge&logo=c#&logoColor=white"/>
 </td></tr>
 <tr><th scope='row' align="left">Databases</th><td>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
