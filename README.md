@@ -7,17 +7,27 @@
 
 ## My Favorite Code: :coffee:
 
-```javascript
-Coffee coffee = new Coffee();
+```react
+function Coffee() {
+  const [empty, setEmpty] = useState(true);
 
-do{
-  if(coffee.isEmpty()) {
-    coffee.refill();
-  }else {
-    coffee.drink();
+  const refill = () => {
+    console.log("Refilling coffee...");
+    setEmpty(false);
   }
-}while(!finishedCode);
-// I'm an IT lover
+
+  const drink = () => {
+    console.log("Drinking coffee...");
+    setEmpty(true);
+  }
+
+  return (
+    <div>
+      <button onClick={empty ? refill : drink}>
+        {empty ? "Refill Coffee" : "Drink Coffee"}
+      </button>
+    </div>
+  );
 }
 ```
 
