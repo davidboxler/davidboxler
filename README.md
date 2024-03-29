@@ -3,7 +3,16 @@
 <img width="100%" src="https://github.com/davidboxler/davidboxler/blob/main/assets/banner-stars.png" alt="banner-dev">
 
 ## About Me :wave:
-<p>My name is David, I am a Higher Technician in Programming :computer:. I'm currently studying a bachelor's degree in video game production and I'm working as a front-end developer in my current job. I am self-taught, reason why I am constantly learning to use new tools to progress in my IT skills. I love working with a team and looking for opportunities to learn, support, collaborate, and continue to grow professionally and personally.</p>
+<p>console.log("Hello World! 👋");
+
+🚀 Passionate about technology and driven by innovation, I'm David, a Higher Technician in Programming 💻 actively engaged as a front-end developer in my current role.
+
+🔍 As a self-taught enthusiast, I thrive on embracing new challenges and mastering emerging tools in the ever-evolving landscape of IT. 
+
+🤝 Collaboration fuels my passion. I thrive in dynamic team environments where diverse perspectives converge to create exceptional solutions. I actively seek opportunities to contribute, learn, and support my peers, recognizing that collective success propels individual and professional growth.
+
+💼 Open to new opportunities, I am eager to leverage my technical expertise and collaborative spirit to drive innovation and make meaningful contributions in the world of technology.
+</p>
 
 ## My Favorite Function: :coffee:
 
