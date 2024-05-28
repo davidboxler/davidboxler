@@ -2,7 +2,8 @@
 
 <img width="100%" src="https://github.com/davidboxler/davidboxler/blob/main/assets/banner-stars.png" alt="banner-dev">
 
-### <img alingn="center" src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width=40px height=40px> About Me 
+### <img alingn="center" src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width=40px height=40px> About Me
+<p alingn="left">
 🚀 Passionate about technology and driven by innovation, I'm David, a Higher Technician in Programming 💻 actively engaged as a front-end developer in my current role.
 
 🔍 As a self-taught enthusiast, I thrive on embracing new challenges and mastering emerging tools in the ever-evolving landscape of IT. 
@@ -11,7 +12,7 @@
 
 💼 Open to new opportunities, I am eager to leverage my technical expertise and collaborative spirit to drive innovation and make meaningful contributions in the world of technology.
 </p>
-
+<p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 ### My Favorite Function: :coffee:
 
 ```typescript
@@ -29,7 +30,7 @@ function drinkCoffeeUntilFinished(): void {
 ```
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> Skills
-<p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+
 <p align="left">
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></code>
