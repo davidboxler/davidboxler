@@ -34,7 +34,7 @@ function drinkCoffeeUntilFinished(): void {
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,materialui,js,ts,react,redux,nextjs,nodejs,express,postman,jenkins,aws,firebase,mongodb,c,git,vscode,npm&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,materialui,js,ts,react,redux,nextjs,nodejs,express,postman,jenkins,aws,firebase,mongodb,c,git,vscode,npm&perline=5" />
   </a>
 </p>
 
