@@ -2,8 +2,7 @@
 
 <img width="100%" src="https://github.com/davidboxler/davidboxler/blob/main/assets/banner-stars.png" alt="banner-dev">
 
-## About Me <img alingn="center" src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width=40px height=40px>
-
+## <img alingn="center" src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width=40px height=40px> About Me 
 🚀 Passionate about technology and driven by innovation, I'm David, a Higher Technician in Programming 💻 actively engaged as a front-end developer in my current role.
 
 🔍 As a self-taught enthusiast, I thrive on embracing new challenges and mastering emerging tools in the ever-evolving landscape of IT. 
