@@ -1,6 +1,8 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%3E+Welcome+to+my+Github+profile!;%3E+console.log('Hello+World!!');%3E+I'm+David%2C+Front-end+developer" alt="Typing SVG" />
 </h1>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
      
 <img width="100%" src="https://github.com/davidboxler/davidboxler/blob/main/assets/banner-stars.png" alt="banner-dev">
 
