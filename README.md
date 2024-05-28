@@ -1,5 +1,5 @@
 <h1 align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%3E+console.log('Hello+World!!')" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%3E+Welcome+to+my+Github+profile!;%3E+console.log('Hello+World!!');%3E+I'm+David%2C+Front-end+developer" alt="Typing SVG" />
 </h1>
      
 <img width="100%" src="https://github.com/davidboxler/davidboxler/blob/main/assets/banner-stars.png" alt="banner-dev">
@@ -30,7 +30,7 @@ function drinkCoffeeUntilFinished(): void {
   } while (!finishedCode);
 }
 ```
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> Skills
+### </> Skills
 
 <p align="left">
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></code>
