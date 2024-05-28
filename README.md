@@ -2,8 +2,7 @@
 
 <img width="100%" src="https://github.com/davidboxler/davidboxler/blob/main/assets/banner-stars.png" alt="banner-dev">
 
-## About Me :wave:
-<p>console.log("Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">");
+## About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 🚀 Passionate about technology and driven by innovation, I'm David, a Higher Technician in Programming 💻 actively engaged as a front-end developer in my current role.
 
