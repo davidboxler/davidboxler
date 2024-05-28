@@ -59,7 +59,9 @@ function drinkCoffeeUntilFinished(): void {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ⚙️ GitHub Stats 
-<a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidboxler&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="davidboxler's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidboxler&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="davidboxler's GitHub Stats" />
-</a>
+<p>
+  <a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidboxler&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="davidboxler's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidboxler&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="davidboxler's GitHub Stats" />
+  </a>
+</p>
