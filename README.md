@@ -56,10 +56,3 @@ function drinkCoffeeUntilFinished(): void {
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" /></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" /></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" /></code>
-
-
-## 🌐 Social Media
-
-You can find me on:
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/boxlerdavid/)](https://www.linkedin.com/in/boxlerdavid/)
