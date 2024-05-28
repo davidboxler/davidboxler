@@ -13,6 +13,7 @@
 💼 Open to new opportunities, I am eager to leverage my technical expertise and collaborative spirit to drive innovation and make meaningful contributions in the world of technology.
 </p>
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+
 ### My Favorite Function: :coffee:
 
 ```typescript
@@ -64,6 +65,3 @@ function drinkCoffeeUntilFinished(): void {
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidboxler&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="davidboxler's GitHub Stats" />
   </a>
 </p>
-
-
-
