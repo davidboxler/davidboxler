@@ -48,9 +48,17 @@ function drinkCoffeeUntilFinished(): void {
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" /></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /></code>
-
-### Workflows
-
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" /></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" /></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" /></code>
+
+### GitHub Stats
+<p align="center">
+<a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidboxler&theme=default&show_icons=true&hide_border=true&count_private=true" alt="davidboxler's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidboxler&theme=default&show_icons=true&hide_border=true&layout=compact" alt="davidboxler's GitHub Stats" />
+</a>
+</p>
+
+
+
