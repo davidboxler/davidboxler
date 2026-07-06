@@ -4,7 +4,7 @@
      
 <img width="100%" src="https://github.com/davidboxler/davidboxler/blob/main/assets/banner-stars.png" alt="banner-dev">
 
-### <img alingn="center" src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width=40px height=40px> About Me
+### About Me
 <p alingn="left">
 🚀 Passionate about technology and driven by innovation, I'm David, a Higher Technician in Programming 💻 actively engaged as a front-end developer in my current role.
 
@@ -39,11 +39,3 @@ function drinkCoffeeUntilFinished(): void {
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### ⚙️ GitHub Stats 
-<p>
-  <a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidboxler&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="davidboxler's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidboxler&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="davidboxler's GitHub Stats" />
-  </a>
-</p>
