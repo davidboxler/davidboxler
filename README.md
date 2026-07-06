@@ -40,6 +40,44 @@ function drinkCoffeeUntilFinished(): void {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+### 📂 <b>My Projects</b>
+
+> 🔒 = private repository
+
+#### 💪 OOP Practice
+- 🔒 [Desafios_POO](https://github.com/davidboxler/Desafios_POO) — Object-Oriented Programming exercises
+
+#### 🏆 Challenges
+- [Billing-Challenge](https://github.com/davidboxler/Billing-Challenge)
+- [Challenge_Java_Workia](https://github.com/davidboxler/Challenge_Java_Workia)
+- [Challenge_Meli_Backend](https://github.com/davidboxler/Challenge_Meli_Backend)
+- [clientes-api](https://github.com/davidboxler/clientes-api)
+- [clientes-frontend](https://github.com/davidboxler/clientes-frontend)
+- [Frontend_Meli_Challenge](https://github.com/davidboxler/Frontend_Meli_Challenge)
+- [Toolbox_Challenge](https://github.com/davidboxler/Toolbox_Challenge)
+
+#### 🎮 Games
+- 🔒 [Inverso_Runner](https://github.com/davidboxler/Inverso_Runner)
+- 🔒 [FlowCity](https://github.com/davidboxler/FlowCity) — driving-exam reaction simulator (Unity)
+- 🔒 [Indigente_Jones-dev](https://github.com/davidboxler/Indigente_Jones-dev)
+- 🔒 [Asteroids_PhaserJS](https://github.com/davidboxler/Asteroids_PhaserJS)
+- 🔒 [Challenge_Of_Olympus](https://github.com/davidboxler/Challenge_Of_Olympus)
+
+#### ⚓ Coderhouse
+- 🔒 [BatallaNaval_CoderHouse](https://github.com/davidboxler/BatallaNaval_CoderHouse)
+
+#### 🌐 Freelance Work
+- 🔒 [website_mendoza](https://github.com/davidboxler/website_mendoza)
+- 🔒 [Responsive_Pizzeria_Website](https://github.com/davidboxler/Responsive_Pizzeria_Website) — first freelance project
+
+#### 🎓 Final Thesis
+- 🔒 [TiendaVirtual_Frontend](https://github.com/davidboxler/TiendaVirtual_Frontend) · [TiendaVirtual_Backend](https://github.com/davidboxler/TiendaVirtual_Backend)
+
+#### 💼 Portfolio
+- [DB_portfolio](https://github.com/davidboxler/DB_portfolio)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### ⚙️ GitHub Stats 
 <p>
   <a>
